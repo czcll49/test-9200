@@ -1,2 +1,2 @@
 <?php
-    echo "Hello World index.php";
+    echo "Hello World";
